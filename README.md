@@ -28,3 +28,8 @@ A pasta `Data` é usada tanto para leitura (`sorteio.csv`) quanto para gravaçã
 3. Execute:
    ```powershell
    .\run_app.ps1
+
+---
+
+## ⚙️ Contato
+- Gostou da iniciativa? Quer fazer contato? envie e-mail para: diogoqb@yahoo.com.br  
